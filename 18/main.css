@@ -1,0 +1,25 @@
+div
+{
+    display: inline-block;
+    margin: -1%;
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+   /* transition: transform 2s ,height 2s,width 10s ease-in; */
+   transition: transform 2s,width 2s , background-color 2s;
+}
+div:hover{
+    transform: translate(100px,15px);
+   width: 250px;
+    background-color: aqua;
+}
+div:active{
+    transform: translate(100px,15px);
+   width: 80px;
+   height: 80px;
+    background-color: aqua;
+}
+.mindy
+{
+   float: left;
+}

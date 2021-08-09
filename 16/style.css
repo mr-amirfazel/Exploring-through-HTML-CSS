@@ -1,0 +1,19 @@
+h4
+{
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.course::before
+{
+
+    content:'//';
+    color: chocolate;
+}
+.title::before{
+    content:'◄';
+    color: coral;
+}
+.title::after{
+    content:'►';
+    color: coral;
+}

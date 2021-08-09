@@ -1,0 +1,18 @@
+div{
+    background-image: url('download.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-style: groove;
+    border-width: 4px 6px;
+    border-color: blue violet;
+    border-radius: 6px;
+
+}
+p{
+    margin-left:390px;
+    margin-right: 319px;
+    margin-top: 155px;
+    margin-bottom: 144px;
+    border-bottom:1px solid black;
+    border-top:1px solid black;
+}

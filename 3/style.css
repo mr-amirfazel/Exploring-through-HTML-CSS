@@ -1,0 +1,34 @@
+table,tr,td{
+    border-bottom: black 3px solid;
+    border-collapse: collapse;
+
+}
+table{
+    direction: rtl;
+}
+/*tr:nth-child(odd)*/
+/*{*/
+/*    background-color: lightcoral;*/
+
+/*}*/
+tr:first-child
+{
+    background-color: mediumspringgreen;
+}
+#lc:hover{
+    background-color: red;
+}
+#fc:hover{
+    background-color: red;
+}
+#sc:hover
+{
+    background-color: blue;
+
+}
+/*table{*/
+/*    border: black 3px solid;*/
+/*}*/
+tr:first-child{
+    border: black 3px solid;
+}

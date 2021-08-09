@@ -1,0 +1,9 @@
+.username , .email,.password{
+    border: 2px rgb(29, 58, 2) solid;
+    background-color: bisque;
+}
+div{
+    padding: 0%;
+    margin: 23px;
+    
+}

@@ -1,0 +1,13 @@
+.search{
+    /* display: inline; */
+    padding-right: 80px;
+}
+.account{
+    padding-right: 35px;
+}
+div{
+    border: 2px dashed lightsalmon;
+    padding: 45px 270px 45px 190px;
+    background-color: #faffd4;
+    display: inline;
+}

@@ -1,0 +1,63 @@
+body{
+    background: rgb(110,110,238);
+background: linear-gradient(90deg, rgba(110,110,238,1) 0%, rgba(2,0,36,1) 0%, rgba(59,128,200,1) 29%, rgba(0,212,255,1) 68%);
+background-repeat: contain;
+}
+h2
+{
+    text-align: center;
+    padding: 20px;
+}
+span
+{
+    color: blue;}
+
+div.fdiv{
+    width:40vw;
+    height: 75vh;
+    background-color: white;
+    border-radius: 15px;
+    margin: 130px 480px;
+
+}
+input[type=text]
+{
+    width: 80%;
+    margin:20px 32px;
+    border: none;
+    border-bottom: 1px solid skyblue;
+}
+input[type=text]:focus
+{
+    border-bottom: 2px solid blue;
+}
+input[type=button]
+{
+    cursor: pointer;
+    text-align: center;
+    font-size: 22px;
+    padding:15px 110px ;
+    margin: 5px 42px;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    background: rgb(110,110,238);
+    background: linear-gradient(43deg, rgba(110,110,238,1) 0%, rgba(61,137,207,1) 4%, rgba(18,126,240,1) 95%, rgba(0,212,255,1) 100%);
+}
+.secdiv
+{
+    text-align: center;
+    margin:3px 55px;
+padding: 0px 62px;
+}
+.forgetpass
+{
+    color: #606e5c;
+    cursor: pointer;
+}
+.createacc
+{
+    color: #3089e3;
+    margin: 2px 0px;
+    cursor: pointer;
+}

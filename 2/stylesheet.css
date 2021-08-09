@@ -1,0 +1,12 @@
+div{
+    margin: 14px;
+    padding: 5px;
+    width: 266px;
+    height:446px;
+    background-color: yellow;
+
+}
+input[type=text],input[type=email],input[type=password]
+{
+    background-color: #01cbc9;
+}

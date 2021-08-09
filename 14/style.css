@@ -1,0 +1,49 @@
+html{
+    background-color: #152845;
+}
+th{
+    color: skyblue;
+    background-color: #152845;
+}
+th ,table ,tr ,td
+{
+    padding: 20px;
+    
+   
+}
+th,tr,td
+{
+    border-collapse: collapse;
+    border:1px solid black;
+}
+td{
+    color: #b1b1b3;
+width:80px;
+}
+tr
+{
+    background-color: #3c3b40;
+}
+tr:nth-child(even)
+{
+    background-color:#2a2730 ;
+}
+#brand
+{
+    /* width:120px; */
+    color:#d47663;
+}
+tr:hover
+{
+    background-color:#a19a7d;
+    outline:2px #a19a7d;
+}
+td:hover
+{
+    background-color:#fce80d;
+    outline:2px #a19a7d;
+
+}
+th{
+    width: 300px;
+}

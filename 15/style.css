@@ -1,0 +1,21 @@
+ul
+{
+    padding: 10px;
+    
+    list-style-type: none;
+    background-color: #181930;
+  
+}
+li{
+    color: beige;
+    display: inline;
+    padding: 10px;
+    border-right: 1px solid yellow;
+    cursor: pointer;
+}
+.home
+{
+   
+   background-color: #0fa1d6;
+    
+}

@@ -1,0 +1,21 @@
+
+p
+{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    padding-left: 210px;
+    padding-top: 23px;
+    text-shadow: 2px 2px 2px orangered , 4px 4px 2px orange, 5px 5px 2px #10de99 , 6px 6px 2px #18b56c
+    , 7px 7px 2px #240975 , 12px 12px 2px #590412;
+    
+  
+}
+div
+{
+    background-color: brown;
+    width: 700px;
+    height: 200px;
+    margin: 120px;
+    margin-left: 290px;
+}
