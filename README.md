@@ -40,7 +40,7 @@ my simple  projects to learn html &amp; Css.  Summer of 2020
 [Text Shadow css](https://github.com/mr-amirfazel/Exploring-through-HTML-CSS/tree/master/12 "Named link title")
 
 **#13** <br/> 
-[<a> tag hover & active css](https://github.com/mr-amirfazel/Exploring-through-HTML-CSS/tree/master/13 "Named link title")
+[Link tag hover & active css](https://github.com/mr-amirfazel/Exploring-through-HTML-CSS/tree/master/13 "Named link title")
   
 **#14** <br/> 
 [small Database table with perfect css](https://github.com/mr-amirfazel/Exploring-through-HTML-CSS/tree/master/14 "Named link title")
